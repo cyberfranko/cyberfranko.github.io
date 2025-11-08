@@ -1,0 +1,6 @@
+site_name: Cyber Wiki
+site_description: "Playbooks and defensive cybersecurity reference"
+theme:
+  name: material
+nav:
+  - Home: index.md
