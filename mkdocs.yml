@@ -2,7 +2,7 @@ site_name: CyberFranko Wiki
 site_description: "Cybersecurity playbooks, programming notes, and defensive security resources"
 site_url: https://cyberfranko.github.io/
 repo_url: https://github.com/cyberfranko/cyberfranko.github.io
-repo_name: cyberfranko/cyberfranko.github.io
+repo_name: GitHub
 
 theme:
   name: material
